@@ -1,5 +1,4 @@
 ## Pipeline de Dados do Obsevatório de Resíduos Sólidos
----
 
 **Autor:** Pedro Florencio - *pedroflorencio@alu.ufc.br*
 
