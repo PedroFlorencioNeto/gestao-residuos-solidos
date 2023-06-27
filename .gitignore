@@ -1,3 +1,4 @@
 env
 *.conf
-*.log
+geckodriver.log
+__pycache__
